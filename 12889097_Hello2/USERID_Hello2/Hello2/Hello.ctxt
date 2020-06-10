@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Hello
+comment0.text=\r\n\ This\ is\ a\ simple\ program\ for\ the\ first\ lab,\ to\ familiarise\ students\r\n\ with\ the\ lab\ and\ with\ plate.\r\n\r\n\ @author\ Raymond\ Lister\r\n\ @version\ March\ 2015\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
